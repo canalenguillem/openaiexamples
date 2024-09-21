@@ -1,0 +1,36 @@
+# Entorno virtual de Python
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos y carpetas de salida de imágenes y videos
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mkv
+*.mov
+*.webm
+
+# Archivos de sonido
+*.mp3
+*.wav
+*.ogg
+
+# Archivos JSON de respuestas o configuraciones
+*.json
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
