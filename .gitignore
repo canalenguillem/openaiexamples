@@ -23,6 +23,10 @@ images/
 *.mov
 *.webm
 
+!images/triangle_area.jpg
+!images/triangle.jpg
+
+
 # Archivos de sonido
 *.mp3
 *.wav
