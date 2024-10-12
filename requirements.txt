@@ -2,3 +2,4 @@ python-dotenv
 openai
 pytube
 yt-dlp
+pydub
