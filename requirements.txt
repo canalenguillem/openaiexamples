@@ -1,7 +1,4 @@
 python-dotenv
 openai
-streamlit
-webdriver-manager
-selenium
-beautifulsoup4
-undetected-chromedriver
+pytube
+yt-dlp
