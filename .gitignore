@@ -23,6 +23,9 @@ images/
 *.mov
 *.webm
 
+*.svg
+*.png
+
 !images/triangle_area.jpg
 !images/triangle.jpg
 
@@ -38,3 +41,5 @@ images/
 # Archivos temporales del sistema
 .DS_Store
 Thumbs.db
+graph/historia_informatica
+graph/mapa_conceptual_historia
