@@ -22,7 +22,7 @@ images/
 *.mkv
 *.mov
 *.webm
-
+*.txt
 *.svg
 *.png
 
